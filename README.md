@@ -1,2 +1,4 @@
-# shooterrgame
-shottergame can you find the mistakes
+# Shooter-Game
+
+
+This is an arcane game
